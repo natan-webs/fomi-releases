@@ -1,0 +1,10 @@
+{
+  "versionCode": 12,
+  "versionName": "0.10.1",
+  "url": "https://github.com/natan-webs/fomi-releases/releases/download/v0.10.1/FOMI-0.10.1.apk",
+  "sha256": "cf4597f1afb8a09ac9864707c1100a6f3327b85d5b43ab5964ed6ea97b9156a1",
+  "bytes": 21678631,
+  "notes": "עברית: וידאו בלבד בחלון הצף; חיפוש הגדרות עם קפיצה ישירה; פירוט עדכון מתקפל. English: video-only PiP; direct settings search; expandable release notes.",
+  "notesHe": "חלון צף שמציג רק את הווידאו מכל עמוד; חיפוש הגדרות בעברית ובאנגלית עם קפיצה ישירה והבלטת התוצאה; פירוט עדכונים דו־לשוני מתקפל.",
+  "notesEn": "Video-only picture-in-picture from every screen; Hebrew and English settings search with direct navigation and highlighting; compact, expandable bilingual release notes."
+}
