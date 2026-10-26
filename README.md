@@ -6,10 +6,8 @@ This repository contains release artifacts and documentation only. Application s
 
 ## Installation and updates
 
-Use only a published APK from Releases. Keep the existing Android application identifier and signing certificate when upgrading so local data is preserved. Update metadata must be published only after its matching APK and checksum have been verified.
+Download [FOMI 0.10.1](https://github.com/natan-webs/fomi-releases/releases/tag/v0.10.1). The signed test APK uses the existing development certificate for compatible upgrades.
 
-The update client verifies the download checksum, package identifier, version and signing certificate before opening the Android installer. A signed APK authenticates its publisher; it does not prevent inspection or reverse engineering.
+Keep the existing application identifier and signing certificate to preserve local data. The update client reads update.json and verifies the downloaded checksum, package identifier, version and signing certificate before opening the Android installer.
 
-Third-party licensing obligations remain applicable and are not changed by this repository policy.
-
-No APK has been published yet.
+A signed APK does not prevent inspection or reverse engineering. Third-party licensing obligations remain applicable.
