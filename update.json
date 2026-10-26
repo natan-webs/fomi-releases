@@ -1,11 +1,11 @@
 {
-  "versionCode": 14,
-  "versionName": "0.11.1",
-  "url": "https://github.com/natan-webs/fomi-releases/releases/download/v0.11.1/FOMI-0.11.1.apk",
-  "sha256": "c1444d40613479fcdf80ec08f06a10f916dd9a795665e883a2f2ad1d27e070df",
-  "bytes": 21811837,
-  "notes": "עברית: עדכונים ומידע: מסך נקי ללא כתובת המקור, בדיקת עדכונים והורדה והתקנה ישירות מהעמוד לאחר אימות הקובץ והחתימה. English: Updates & information: a clean page without the source address, update checks and direct download/install after file and signature verification.",
-  "notesHe": "עדכונים ומידע: מסך נקי ללא כתובת המקור, בדיקת עדכונים והורדה והתקנה ישירות מהעמוד לאחר אימות הקובץ והחתימה.",
-  "notesEn": "Updates & information: a clean page without the source address, update checks and direct download/install after file and signature verification.",
+  "versionCode": 15,
+  "versionName": "0.12.0",
+  "url": "https://github.com/natan-webs/fomi-releases/releases/download/v0.12.0/FOMI-0.12.0.apk",
+  "sha256": "7d53398d91413c75422df0c3d741b07e6ec60fb2acc847000c2bb8334aa6c8d1",
+  "bytes": 21892198,
+  "notes": "הכנה משופרת של השיר הבא; חיפוש קולי בעברית; ביטול פעולות; גישה להורדות ללא אינטרנט; דוח תקלה לעיון ולשיתוף לבחירה; מעבר אודיו־וידאו באותו זמן; חסימת ביטויים והחרגת צפייה מהלמידה; חיפוש ושמירת תור וכללים לסיומו; התאמת מקטעי הפרופיל; מסכי עדכון בעברית בלבד.",
+  "notesHe": "הכנה משופרת של השיר הבא; חיפוש קולי בעברית; ביטול פעולות; גישה להורדות ללא אינטרנט; דוח תקלה לעיון ולשיתוף לבחירה; מעבר אודיו־וידאו באותו זמן; חסימת ביטויים והחרגת צפייה מהלמידה; חיפוש ושמירת תור וכללים לסיומו; התאמת מקטעי הפרופיל; מסכי עדכון בעברית בלבד.",
+  "notesEn": "",
   "signingSha256": "22abb88d10032e5a060db865e75651e9caafddab7e04b7d6923d6f7daf4804e2"
 }
