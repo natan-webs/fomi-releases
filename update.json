@@ -1,10 +1,11 @@
 {
-  "versionCode": 12,
-  "versionName": "0.10.1",
-  "url": "https://github.com/natan-webs/fomi-releases/releases/download/v0.10.1/FOMI-0.10.1.apk",
-  "sha256": "cf4597f1afb8a09ac9864707c1100a6f3327b85d5b43ab5964ed6ea97b9156a1",
-  "bytes": 21678631,
-  "notes": "עברית: וידאו בלבד בחלון הצף; חיפוש הגדרות עם קפיצה ישירה; פירוט עדכון מתקפל. English: video-only PiP; direct settings search; expandable release notes.",
-  "notesHe": "חלון צף שמציג רק את הווידאו מכל עמוד; חיפוש הגדרות בעברית ובאנגלית עם קפיצה ישירה והבלטת התוצאה; פירוט עדכונים דו־לשוני מתקפל.",
-  "notesEn": "Video-only picture-in-picture from every screen; Hebrew and English settings search with direct navigation and highlighting; compact, expandable bilingual release notes."
+  "versionCode": 13,
+  "versionName": "0.11.0",
+  "url": "https://github.com/natan-webs/fomi-releases/releases/download/v0.11.0/FOMI-0.11.0.apk",
+  "sha256": "ff74ee1fe4ba6028ad98d3159d8ad1ecab1348456c51f71933a6cf24e6244df0",
+  "bytes": 21796151,
+  "notes": "עברית: ניווט אחורה תקין; חיפוש נקי; תגיות שחוזרות בגלילה וטעינת עוד תוכן; אלבומים ליוצרים; לייק ודיסלייק מקומיים; שמירה ברורה; משיכת הנגן למטה ובחירה אם לפתוח PiP; בדיקת עדכונים אוטומטית וכפתור עדכן בבית. English: Reliable Back navigation; focused search; returning filters and feed continuation; creator albums; reversible local ratings; clear saving; swipe-to-minimize and optional automatic PiP; automatic update checks with a Home update shortcut.",
+  "notesHe": "ניווט אחורה תקין; חיפוש נקי; תגיות שחוזרות בגלילה וטעינת עוד תוכן; אלבומים ליוצרים; לייק ודיסלייק מקומיים; שמירה ברורה; משיכת הנגן למטה ובחירה אם לפתוח PiP; בדיקת עדכונים אוטומטית וכפתור עדכן בבית.",
+  "notesEn": "Reliable Back navigation; focused search; returning filters and feed continuation; creator albums; reversible local ratings; clear saving; swipe-to-minimize and optional automatic PiP; automatic update checks with a Home update shortcut.",
+  "signingSha256": "22abb88d10032e5a060db865e75651e9caafddab7e04b7d6923d6f7daf4804e2"
 }
