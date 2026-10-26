@@ -1,11 +1,11 @@
 {
-  "versionCode": 13,
-  "versionName": "0.11.0",
-  "url": "https://github.com/natan-webs/fomi-releases/releases/download/v0.11.0/FOMI-0.11.0.apk",
-  "sha256": "ff74ee1fe4ba6028ad98d3159d8ad1ecab1348456c51f71933a6cf24e6244df0",
-  "bytes": 21796151,
-  "notes": "עברית: ניווט אחורה תקין; חיפוש נקי; תגיות שחוזרות בגלילה וטעינת עוד תוכן; אלבומים ליוצרים; לייק ודיסלייק מקומיים; שמירה ברורה; משיכת הנגן למטה ובחירה אם לפתוח PiP; בדיקת עדכונים אוטומטית וכפתור עדכן בבית. English: Reliable Back navigation; focused search; returning filters and feed continuation; creator albums; reversible local ratings; clear saving; swipe-to-minimize and optional automatic PiP; automatic update checks with a Home update shortcut.",
-  "notesHe": "ניווט אחורה תקין; חיפוש נקי; תגיות שחוזרות בגלילה וטעינת עוד תוכן; אלבומים ליוצרים; לייק ודיסלייק מקומיים; שמירה ברורה; משיכת הנגן למטה ובחירה אם לפתוח PiP; בדיקת עדכונים אוטומטית וכפתור עדכן בבית.",
-  "notesEn": "Reliable Back navigation; focused search; returning filters and feed continuation; creator albums; reversible local ratings; clear saving; swipe-to-minimize and optional automatic PiP; automatic update checks with a Home update shortcut.",
+  "versionCode": 14,
+  "versionName": "0.11.1",
+  "url": "https://github.com/natan-webs/fomi-releases/releases/download/v0.11.1/FOMI-0.11.1.apk",
+  "sha256": "c1444d40613479fcdf80ec08f06a10f916dd9a795665e883a2f2ad1d27e070df",
+  "bytes": 21811837,
+  "notes": "עברית: עדכונים ומידע: מסך נקי ללא כתובת המקור, בדיקת עדכונים והורדה והתקנה ישירות מהעמוד לאחר אימות הקובץ והחתימה. English: Updates & information: a clean page without the source address, update checks and direct download/install after file and signature verification.",
+  "notesHe": "עדכונים ומידע: מסך נקי ללא כתובת המקור, בדיקת עדכונים והורדה והתקנה ישירות מהעמוד לאחר אימות הקובץ והחתימה.",
+  "notesEn": "Updates & information: a clean page without the source address, update checks and direct download/install after file and signature verification.",
   "signingSha256": "22abb88d10032e5a060db865e75651e9caafddab7e04b7d6923d6f7daf4804e2"
 }
