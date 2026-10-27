@@ -1,11 +1,1 @@
-{
-  "versionCode": 25,
-  "versionName": "0.16.0",
-  "url": "https://github.com/natan-webs/fomi-releases/releases/download/v0.16.0/FOMI-0.16.0.apk",
-  "sha256": "af249e998038052b3621fb0dce39f38ac7a91ff1aa2a7dbbe0c140f746e0c407",
-  "bytes": 16328153,
-  "notes": "שני קצרים קרובים נטענים מראש במקביל כדי לאפשר החלקה רציפה ומהירה. מטמון קצר מונע חילוץ כפול. טעינת קצרים נוספים מתבצעת לפני שמגיעים לסוף. שורת אין חיבור מופיעה רק לאחר שאנדרואיד אישר שאין חיבור מאומת. נשמרו ההמלצות, הנגן, ההורדות, הסטטיסטיקה, החיפוש המתקדם, עמודי היוצרים ומערכת העדכונים.",
-  "notesHe": "שני קצרים קרובים נטענים מראש במקביל כדי לאפשר החלקה רציפה ומהירה. מטמון קצר מונע חילוץ כפול. טעינת קצרים נוספים מתבצעת לפני שמגיעים לסוף. שורת אין חיבור מופיעה רק לאחר שאנדרואיד אישר שאין חיבור מאומת. נשמרו ההמלצות, הנגן, ההורדות, הסטטיסטיקה, החיפוש המתקדם, עמודי היוצרים ומערכת העדכונים.",
-  "notesEn": "",
-  "signingSha256": "22abb88d10032e5a060db865e75651e9caafddab7e04b7d6923d6f7daf4804e2"
-}
+{"signingCertificateSha256":"22abb88d10032e5a060db865e75651e9caafddab7e04b7d6923d6f7daf4804e2","versionCode":26,"releaseNotesUrl":"https://github.com/natan-webs/fomi-releases/releases/tag/v0.16.1","releaseNotesHe":"קישורי שיתוף חכמים דרך אתר FOMI, פתיחה ישירה באפליקציה ותמיכה ראשונית ב-App Links.","sha256":"1af56d6e4aa3df3518b83c73dee8327dba651bc84fde46e2b65360573ca6f9ae","apkUrl":"https://github.com/natan-webs/fomi-releases/releases/download/v0.16.1/FOMI-0.16.1.apk","bytes":16328153,"versionName":"0.16.1"}
